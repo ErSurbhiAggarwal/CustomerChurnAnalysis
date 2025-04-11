@@ -1,0 +1,15 @@
+Scenario:
+Your company, TechNova, is facing a customer churn issue in its subscription-based SaaS product. The marketing team believes that customer engagement and support response times impact retention, but they need data-driven proof to justify changes in strategy.
+You’ve been given a dataset that includes:
+Customer Info (ID, Subscription Date, Cancellation Date)
+Engagement Metrics (Monthly Login Frequency, Feature Usage)
+Support Data (Number of Tickets Raised, Average Response Time)
+Financial Impact (Subscription Plan, Revenue Lost on Cancellation)
+Your goal is to analyze the data and identify key factors that contribute to churn.
+
+Task Breakdown
+1. Data Cleaning & Preparation (5 min)
+2. Churn Analysis (10 min)
+Create a line chart showing how churn changes with login frequency.
+3. Financial Impact Estimation (10 min)
+4. Action Plan (5 min)
